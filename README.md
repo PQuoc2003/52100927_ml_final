@@ -5,6 +5,22 @@
 3. Cao Đăng Tình        - 52100936
 
 
+# Mô tả bài toán 
+
+    Đây là bài toán phân loại màu của rượu thông qua các thuộc tính được cho trước.
+
+    Bộ dữ liệu gồm cả thuộc tính dạng số và dạng chữ, với 12 thuộc tính và 1 target.
+
+    Bộ dữ liệu gồm 6497 record , trong đó có 5320 record là độc nhất, và không có thuộc tính bị thiếu.
+
+    Bộ dữ liệu này được cung cấp bởi P. Cortez, A. Cerdeira, Fernando Almeida, Telmo Matos, J. Reis. 2009
+
+
+
+
+
+    
+
 # Phân tích các đặt trưng của bộ dữ liệu.
 
 ##  1. color
